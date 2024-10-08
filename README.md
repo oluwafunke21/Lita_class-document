@@ -3,3 +3,4 @@
 ```excel
 =sum(b1:b2)
 ```
+=sumif(b1:b10,4)
